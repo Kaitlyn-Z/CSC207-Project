@@ -27,6 +27,5 @@ public class Playlist {
         this.selected = selected;
     }
 
-    // 其他 getter
 
 }
