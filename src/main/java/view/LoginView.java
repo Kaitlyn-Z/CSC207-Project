@@ -1,0 +1,1 @@
+// View when user is prompted to log in
